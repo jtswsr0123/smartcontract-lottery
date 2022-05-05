@@ -1,3 +1,4 @@
+using chainlink VRF to randomly choose the winner of a lottery. 
 1. users can enter lottery with ETH based on a USD fee
 2. An admin will choose when the lottery is over
 3. the lottery will select a random winner
